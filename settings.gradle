@@ -1,0 +1,11 @@
+rootProject.name = 'codewar'
+include 'squareSum'
+include 'digitize'
+include 'sumOfOddNumbers'
+include 'nextPerfectSquare'
+include 'findTheOddInt'
+include 'Consecutive strings'
+include 'ConsecutiveString'
+include 'breakingChocolateProblem'
+include 'primesInNumbers'
+
