@@ -8,4 +8,5 @@ include 'Consecutive strings'
 include 'ConsecutiveString'
 include 'breakingChocolateProblem'
 include 'primesInNumbers'
+include 'jadenCasingStrings'
 
