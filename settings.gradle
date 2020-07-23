@@ -9,4 +9,5 @@ include 'ConsecutiveString'
 include 'breakingChocolateProblem'
 include 'primesInNumbers'
 include 'jadenCasingStrings'
+include 'casinoChips'
 
